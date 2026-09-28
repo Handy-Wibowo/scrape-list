@@ -1,0 +1,6 @@
+ig_session.json
+ig_sessionid.txt
+.env
+saved_posts/
+__pycache__/
+*.pyc
