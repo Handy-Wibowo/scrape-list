@@ -1,1 +1,1 @@
-the list for my script to scrape certain content. if you need help or ask for anything just contact me on my profile
+the list for my script to scrape certain content. the content will be added overtime if i have a new script to add
